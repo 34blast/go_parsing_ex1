@@ -1,3 +1,3 @@
 #GO_PARSING_EX1
 
-Go Parsing learning
+Go Parsing learning, example 1
